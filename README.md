@@ -1,7 +1,9 @@
 # Hi 👋, I'm Avvienash Jaganathan
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your actual profile picture URL -->
-
+<img src="Avvienash_Jaganathan_Profile_Picture.png" 
+     alt="Profile Picture" 
+     style="width:500px; height:auto; border-radius:100px; display:block; margin:0 auto;" />
+     
  📫 [avvienash@gmail.com](mailto:avvienash@gmail.com)  
 📞 +61 423 617 837  
 🔗 [https://linkedin.com/in/avvienash-jaganathan](https://linkedin.com/in/avvienash-jaganathan)
