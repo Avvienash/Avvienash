@@ -2,7 +2,7 @@
 
 <img src="Avvienash_Jaganathan_Profile_Picture.png" 
      alt="Profile Picture" 
-     style="width:500px; height:auto; border-radius:100px; display:block; margin:0 auto;" />
+     style="width:300px; height:auto; border-radius:100px; display:block; margin:0 auto;" />
      
  📫 [avvienash@gmail.com](mailto:avvienash@gmail.com)  
 📞 +61 423 617 837  
